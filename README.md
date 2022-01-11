@@ -1,2 +1,2 @@
-# HashCode Practice 20201
+# HashCode Practice 2021
  Score  522,777,848 points
